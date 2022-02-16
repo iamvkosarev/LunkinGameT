@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bc211c6c6992044f91743c241db27df, type: 3}
+  m_Name: Levels Static Data
+  m_EditorClassIdentifier: 
+  LoadingLevelIndex: 0
+  LevelStaticDatas:
+  - {fileID: 11400000, guid: 9a5b9022e209da340a79ca5e191cd478, type: 2}
+  DistanceBetweenPosts: 2
+  DistanceBetweenCharacters: 1.55
+  PostPrefab: {fileID: 7959569004736238145, guid: 88b6ba96fa06d5d428ea399e8180afec, type: 3}
+  CharacterPrefab: {fileID: 5233214067641288270, guid: 7e202e8bca456ac4aaa5878e5e226fd4, type: 3}
